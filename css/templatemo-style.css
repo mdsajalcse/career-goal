@@ -426,7 +426,7 @@ p:last-child { margin-bottom: 0; }
 	.navbar-nav .nav-item {	float: none; }
 
 	.navbar-brand {
-		display: none;
+		display: block;
 		float: left;
 		font-size: 2em;
 	}
