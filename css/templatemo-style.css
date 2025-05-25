@@ -444,7 +444,7 @@ p:last-child { margin-bottom: 0; }
 	.navbar-nav .nav-item+.nav-item { margin-left: 0; }
 
 	.navbar-toggler {
-		display: block;
+		display: none;
 		float: right;
 	}
 }
